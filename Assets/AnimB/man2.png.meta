@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: d76335e719448f340b3cd568993c2228
+timeCreated: 1454867547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: man2_0
+    21300002: man2_1
+    21300004: man2_2
+    21300006: man2_3
+    21300008: man2_4
+    21300010: man2_5
+    21300012: man2_6
+    21300014: man2_7
+    21300016: man2_8
+    21300018: man2_9
+    21300020: man2_10
+    21300022: man2_11
+    21300024: man2_12
+    21300026: man2_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: man2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 111
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 106
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 97
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_9
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 0
+        width: 111
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 0
+        width: 105
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_11
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 0
+        width: 100
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_12
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: man2_13
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 0
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
